@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{74bdabb0-e2a2-00c6-a802-5279b784fc93}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotion", "LeapMotion.csproj", "{e9e2cd46-6900-e933-1fc6-bb7de2d9550e}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotion.LeapCSharp", "LeapMotion.LeapCSharp.csproj", "{f9c98399-431a-9e9e-89ea-f1e0ea50c5ca}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{74bdabb0-e2a2-00c6-a802-5279b784fc93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{bc138057-2576-ec2d-6283-a940b41561b7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{14dfc624-93b6-8914-528f-155571264fd3}"
 EndProject
@@ -14,12 +16,14 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74bdabb0-e2a2-00c6-a802-5279b784fc93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74bdabb0-e2a2-00c6-a802-5279b784fc93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{e9e2cd46-6900-e933-1fc6-bb7de2d9550e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{e9e2cd46-6900-e933-1fc6-bb7de2d9550e}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{f9c98399-431a-9e9e-89ea-f1e0ea50c5ca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{f9c98399-431a-9e9e-89ea-f1e0ea50c5ca}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74bdabb0-e2a2-00c6-a802-5279b784fc93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74bdabb0-e2a2-00c6-a802-5279b784fc93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{bc138057-2576-ec2d-6283-a940b41561b7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{bc138057-2576-ec2d-6283-a940b41561b7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14dfc624-93b6-8914-528f-155571264fd3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{14dfc624-93b6-8914-528f-155571264fd3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
