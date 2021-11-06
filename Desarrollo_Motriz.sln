@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{37bd1be9-b224-fe34-68bc-e8b5cb6e79e7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotion", "LeapMotion.csproj", "{352216a1-182a-e22c-af0e-1cb17d64fad5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapMotion.LeapCSharp", "LeapMotion.LeapCSharp.csproj", "{05c29ddf-58a9-d4ca-2e1e-086b124c2e64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{fe222b7f-d351-964f-9a2e-5300168834b6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{69373396-dced-5677-b43c-da34ff249658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37bd1be9-b224-fe34-68bc-e8b5cb6e79e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37bd1be9-b224-fe34-68bc-e8b5cb6e79e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352216a1-182a-e22c-af0e-1cb17d64fad5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352216a1-182a-e22c-af0e-1cb17d64fad5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05c29ddf-58a9-d4ca-2e1e-086b124c2e64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05c29ddf-58a9-d4ca-2e1e-086b124c2e64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fe222b7f-d351-964f-9a2e-5300168834b6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fe222b7f-d351-964f-9a2e-5300168834b6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69373396-dced-5677-b43c-da34ff249658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69373396-dced-5677-b43c-da34ff249658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
