@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Aros.unity
+- path: Assets/Scenes/Tazos.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
