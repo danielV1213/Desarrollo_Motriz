@@ -10,6 +10,7 @@ using UnityEngine;
 using System.Collections;
 using Leap;
 
+
 namespace Leap.Unity{
   /**
    * Tracks the connection state of the Leap Motion hardware. If the device is unplugged
